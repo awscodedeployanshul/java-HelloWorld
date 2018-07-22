@@ -1,0 +1,13 @@
+<project>
+    <artifactId>Helloworld</artifactId>
+    <groupID>ga.anshul</groupID>
+    <version>1.0</version>
+    <package>jar</package>
+ 
+<dependencies>
+    <dependency>
+        <artifactId>junit</artifactId>
+        <gropu>org.apache</groupID>
+        <version>1.0<version>
+    <dependency>
+</dependencies>
