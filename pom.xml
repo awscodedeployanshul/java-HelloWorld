@@ -1,6 +1,6 @@
 <project>
     <artifactId>Helloworld</artifactId>
-    <groupID>ga.anshul</groupID>
+    <groupID>testing</groupID>
     <version>1.0</version>
     <package>jar</package>
  
